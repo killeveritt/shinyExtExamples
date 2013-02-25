@@ -1,0 +1,1 @@
+Example R Shiny application which combines the extension input components provided in shinyExt with DataTables and Select2. In addition, I added ability to export data from DataTables using the TableTools plugin for DataTables. Also made some minor changes to the shinyExt package to provide common date-range options and ability to define a default value
